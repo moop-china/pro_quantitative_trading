@@ -4,9 +4,7 @@ IniFile
 matplotlib
 numpy
 pandas
-random
 scipy
 seaborn
 statsmodels
-time
 tushare
